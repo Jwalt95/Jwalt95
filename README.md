@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jwalt95
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on python projects (beginner projects).
 - 📫 How to reach me: walterlouis87@gmail.com
 
 <!---
